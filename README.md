@@ -25,3 +25,6 @@ komutlarını verin.
 ![girici ana sayfa](https://i.ibb.co/C6g8gTM/Ekran-Resmi-2020-10-22-03-30-15.png)
 #### Temalar
 ![girici temalar](https://i.ibb.co/dBPBLGP/Ekran-Resmi-2020-10-22-03-30-28.png)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
