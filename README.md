@@ -1,4 +1,8 @@
-
+<!--
+  Title: Girici
+  Description: Açık kaynak kodlu node.js web proxy projesi, girici projesinin tamamlanmış halidir, girici sayesinde internet engel erişimini kaldırın.
+  Author: murathasev
+  -->
 <p align="center">
   <img src="https://cdn.glitch.com/c0a764c7-9345-4319-be50-d1b2f95f17ec/Untitled-2.png?v=1583258151342" />
 </p>
