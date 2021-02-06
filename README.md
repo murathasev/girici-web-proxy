@@ -19,7 +19,7 @@ Node.js > 8.0<br>
     "unblocker": "^2.0.5",<br>
     "randomstring": "^1.1.5"<br>
 
-# Kurulum
+# Installation
 Any a download on node.js 
 <br>```npm install```<br>
 ```npm start```
