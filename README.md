@@ -8,9 +8,9 @@
 </p>
 
 # 
-Açık kaynaklı web proxy projesi, unblocker modülü ile çalışmakta.
+The open source web proxy project works with the unblocker module.
 
-# Gereklilikler 
+# Requirements 
 Node.js > 8.0<br>
  "express": "^4.17.1",<br>
     "gatling": "^1.2.0",<br>
@@ -20,15 +20,15 @@ Node.js > 8.0<br>
     "randomstring": "^1.1.5"<br>
 
 # Kurulum
-Herhangi bir node.js hosting üzerine yükleyip
+Any a download on node.js 
 <br>```npm install```<br>
 ```npm start```
-komutlarını verin.
+give commands.
 
-# Görünüm
-![girici ana sayfa](https://i.ibb.co/C6g8gTM/Ekran-Resmi-2020-10-22-03-30-15.png)
-#### Temalar
-![girici temalar](https://i.ibb.co/dBPBLGP/Ekran-Resmi-2020-10-22-03-30-28.png)
+# Appearence
+![girici home page](https://i.ibb.co/C6g8gTM/Ekran-Resmi-2020-10-22-03-30-15.png)
+#### Themes
+![girici themes](https://i.ibb.co/dBPBLGP/Ekran-Resmi-2020-10-22-03-30-28.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
