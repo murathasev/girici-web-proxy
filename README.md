@@ -7,7 +7,7 @@
 <img align="right" width="250" height="250" src="https://i.ibb.co/pWtBXvF/Yeni-Proje.png">
 <p align="left"> 
 The girici web proxy is a project designed to remove access to banned websites.
-This allows you to log in to banned websites and unblock access.
+This allows you to view to banned websites and unblock access.
 
 </p>
 <h1>Releases</h1>
