@@ -3,14 +3,17 @@
   Description: Açık kaynak kodlu node.js web proxy projesi, girici projesinin tamamlanmış halidir, girici sayesinde internet engel erişimini kaldırın.
   Author: murathasev
   -->
-<p align="center">
-  <img src="https://cdn.glitch.com/c0a764c7-9345-4319-be50-d1b2f95f17ec/Untitled-2.png?v=1583258151342" />
+<h1>Girici Web Proxy</h1>
+<img align="right" width="250" height="250" src="https://i.ibb.co/pWtBXvF/Yeni-Proje.png">
+<p align="left"> 
+The girici web proxy is a project designed to remove access to banned websites.
+This allows you to log in to banned websites and unblock access.
+
 </p>
-
-# 
-The open source web proxy project works with the unblocker module.
-
-# Requirements 
+<h1>Releases</h1>
+Girici 2.3 <a href="#">(checkout this release)</a><br>
+<h1>Requirements & LICENSE</h1>
+<img align="left" width="250" height="250" src="https://i.ibb.co/sjs4wTQ/parcel-575623-640.png">
 Node.js > 8.0<br>
  "express": "^4.17.1",<br>
     "gatling": "^1.2.0",<br>
@@ -18,17 +21,6 @@ Node.js > 8.0<br>
     "through": "^2.3.8",<br>
     "unblocker": "^2.0.5",<br>
     "randomstring": "^1.1.5"<br>
-
-# Installation
-Any a download on node.js 
-<br>```npm install```<br>
-```npm start```
-give commands.
-
-# Appearence
-![girici home page](https://i.ibb.co/C6g8gTM/Ekran-Resmi-2020-10-22-03-30-15.png)
-#### Themes
-![girici themes](https://i.ibb.co/dBPBLGP/Ekran-Resmi-2020-10-22-03-30-28.png)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+    
+ <h4>LICENSE</h4>
+<a href="https://choosealicense.com/licenses/mit">MIT</a>
