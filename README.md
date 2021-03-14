@@ -12,8 +12,14 @@ This allows you to log in to banned websites and unblock access.
 </p>
 <h1>Releases</h1>
 Girici 2.3 <a href="#">(checkout this release)</a><br>
+Girici 1.4 <a href="#">(checkout this release)</a><br>
+Girici 0.3 <a href="#">(checkout this release)</a><br>
 <h1>Requirements & LICENSE</h1>
 <img align="left" width="250" height="250" src="https://i.ibb.co/sjs4wTQ/parcel-575623-640.png">
+Any a download on node.js 
+npm install
+npm start
+give commands.<br>
 Node.js > 8.0<br>
  "express": "^4.17.1",<br>
     "gatling": "^1.2.0",<br>
@@ -21,6 +27,4 @@ Node.js > 8.0<br>
     "through": "^2.3.8",<br>
     "unblocker": "^2.0.5",<br>
     "randomstring": "^1.1.5"<br>
-    
- <h4>LICENSE</h4>
-<a href="https://choosealicense.com/licenses/mit">MIT</a>
+<a  href="https://choosealicense.com/licenses/mit">LICENSE: MIT</a>
