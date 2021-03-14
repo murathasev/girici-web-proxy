@@ -15,7 +15,7 @@ Girici 2.3 <a href="#">(checkout this release)</a><br>
 Girici 1.4 <a href="#">(checkout this release)</a><br>
 Girici 0.3 <a href="#">(checkout this release)</a><br>
 <h1>Requirements & LICENSE</h1>
-<img align="left" width="250" height="250" src="https://i.ibb.co/sjs4wTQ/parcel-575623-640.png">
+<img align="left" width="250" height="250" src="https://i.ibb.co/Pg5T5ZL/box-2071537-640.png">
 Any a download on node.js 
 npm install
 npm start
